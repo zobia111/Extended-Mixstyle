@@ -13,6 +13,6 @@ In this work, we address **single-domain generalization** (SDG): training on one
 ## Key Contributions
 - Extended MixStyle (EM) that mixes mean, variance, skewness, and kurtosis to capture higher-order variations across domains.
 - Plug-and-play feature-level module that can be integrated with minimal changes.
-- Single-domain training with cross-dataset evaluation: trained on NACC and tested on ADNI, AIBL, and OASIS, achieving ~2.4-point macro-F1 improvement over state-of-the-art SDG baselines.
+- Single-domain training with cross-dataset evaluation: trained on NACC and tested on ADNI, AIBL, and OASIS, achieving ~2.4-point macro-F1 improvement on average over state-of-the-art SDG baselines.
 
 The implementation will be released upon paper acceptance.
