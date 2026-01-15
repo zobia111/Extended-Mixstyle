@@ -2,6 +2,7 @@
 
 ## Overview
 **Paper:** [Higher-Order Domain Generalization in Magnetic Resonance-Based Assessment of Alzheimer's Disease](https://arxiv.org/abs/2601.01485)
+
 **PDF:** https://arxiv.org/pdf/2601.01485.pdf
 
 Deep learning models for Alzheimer’s disease assessment from structural MRI often struggle when deployed across new imaging sites with different scanners, acquisition protocols, or patient populations. Traditional domain-generalization approaches such as MixStyle mainly mix means and variances, which may not fully capture complex statistical shifts across cohorts.
@@ -29,6 +30,6 @@ If you find this work useful, please cite:
   journal={arXiv preprint arXiv:2601.01485},
   year={2026}
 }
-
+```
 
 The implementation will be released upon paper acceptance.
