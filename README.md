@@ -15,4 +15,7 @@ In this work, we address **single-domain generalization** (SDG): training on one
 - Plug-and-play feature-level module that can be integrated with minimal changes.
 - Single-domain training with cross-dataset evaluation: trained on NACC and tested on ADNI, AIBL, and OASIS, achieving ~2.4-point macro-F1 improvement on average over state-of-the-art SDG baselines.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.01485-b31b1b.svg)](https://arxiv.org/abs/2601.01485)
+
+
 The implementation will be released upon paper acceptance.
